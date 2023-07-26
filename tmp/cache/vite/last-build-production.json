@@ -1,0 +1,7 @@
+{
+  "success": false,
+  "errors": "error Command \"vite\" not found.\n",
+  "timestamp": "2023-07-26 16:52:15",
+  "vite_ruby": "3.3.4",
+  "digest": "31d13a0ca8f9f63b5a6cf8a6fb0bbe0cc536078d"
+}
